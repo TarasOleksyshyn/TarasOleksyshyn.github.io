@@ -527,7 +527,7 @@ template {
   position: relative;
   width: 350px;
   height: 100%;
-  padding: 140px 0 0 40px;
+  padding: 70px 0 0 40px;
   background-color: #FFA501;
   -webkit-transition: all 0.6s;
   -o-transition: all 0.6s;
@@ -580,7 +580,7 @@ template {
   -webkit-transform: translateX(50%);
       -ms-transform: translateX(50%);
           transform: translateX(50%);
-  bottom: 50px;
+  bottom: 5%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
